@@ -1,2 +1,0 @@
-def sayHelloy():
-    print('HELLO')

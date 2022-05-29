@@ -1,3 +1,1 @@
-from pgsequelize.main import sayHelloy
-
-sayHelloy()
+from pgsequelize.query import getTableWhereData
